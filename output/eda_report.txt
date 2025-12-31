@@ -1,0 +1,63 @@
+
+
+1. LỌC THEO COUNTRY:
+    ĐỀ XUẤT: Chỉ giữ lại 'United Kingdom'
+   
+   LÝ DO:
+   • UK chiếm 91.4% tổng số giao dịch (áp đảo)
+   • Dữ liệu đồng nhất về thị trường, văn hóa mua sắm
+   • Giảm nhiễu từ các thị trường nhỏ khác (37 quốc gia)
+   • Phù hợp cho phân tích hành vi khách hàng địa phương
+   
+   CODE THỰC HIỆN:
+   df_filtered = df[df['Country'] == 'United Kingdom']
+
+2. LỌC THEO QUANTITY:
+    ĐỀ XUẤT: Lọc bỏ outliers
+   
+   LÝ DO:
+   • Ngưỡng outlier: 24 (Q3 + 1.5*IQR)
+   • Số đơn outlier: 56,635 (10.66%)
+   • Có thể là đơn bán buôn, không đại diện cho bán lẻ
+   
+   CODE THỰC HIỆN:
+   df_filtered = df_filtered[df_filtered['Quantity'] <= 24]
+
+3. LỌC NEGATIVE QUANTITY (ĐƠN TRẢ HÀNG):
+    ĐỀ XUẤT: Lọc bỏ đơn hàng có Quantity <= 0
+   
+   LÝ DO:
+   • Quantity âm là đơn trả hàng/hủy
+   • Không phù hợp cho phân tích mô hình bán hàng
+   
+   CODE THỰC HIỆN:
+   df_filtered = df_filtered[df_filtered['Quantity'] > 0]
+
+4. KẾT QUẢ SAU KHI LỌC:
+   • Dữ liệu gốc: 541,909 dòng
+   • Sau khi lọc UK: ~495,478 dòng
+   • Sau khi lọc Quantity > 0: ~531,285 dòng
+   • Ước tính cuối cùng: ~433,981 dòng
+
+
+
+def apply_filters(df):
+    '''Áp dụng các ngưỡng lọc đề xuất từ EDA'''
+    print(f"Dữ liệu gốc: {len(df):,} dòng")
+    
+    # Lọc 1: Chỉ giữ UK
+    df = df[df['Country'] == 'United Kingdom']
+    print(f"Sau khi lọc UK: {len(df):,} dòng")
+    
+    # Lọc 2: Bỏ đơn trả hàng
+    df = df[df['Quantity'] > 0]
+    print(f"Sau khi lọc Quantity > 0: {len(df):,} dòng")
+    
+    # Lọc 3: Bỏ outliers
+    df = df[df['Quantity'] <= 24]
+    print(f"Sau khi lọc outliers: {{len(df):,}} dòng")
+    
+    return df
+
+# Sử dụng:
+df_clean = apply_filters(df)
