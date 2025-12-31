@@ -3,7 +3,7 @@ import random
 import json
 
 
-def process_data(input_file, output_csv='mapped_data.csv', output_json='item_mapping.json', output_txt='transactions.txt'):
+def process_data(input_file, output_csv='data/processed/mapped_data.csv', output_json='data/processed/item_mapping.json', output_txt='data/raw/transactions.txt'):
     """
     Xử lý dữ liệu từ file Excel:
     1. Đọc dữ liệu file excel

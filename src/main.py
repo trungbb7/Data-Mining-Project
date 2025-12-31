@@ -4,7 +4,7 @@ if __name__ == "__main__":
     # Xử lý dữ liệu
     df = process_data(
         input_file='src/data/dataset.xlsx',
-        output_csv='mapped_data.csv',
-        output_json='item_mapping.json',
-        output_txt='transactions.txt'
+        output_csv='data/processed/mapped_data.csv',
+        output_json='data/processed/item_mapping.json',
+        output_txt='data/raw/transactions.txt'
     )

@@ -74,8 +74,8 @@ def analyze_country_distribution(df):
                 va='center', fontsize=9)
     
     plt.tight_layout()
-    plt.savefig('eda_country_distribution.png', dpi=300, bbox_inches='tight')
-    print("\n Đã lưu biểu đồ: eda_country_distribution.png")
+    plt.savefig('output/eda_country_distribution.png', dpi=300, bbox_inches='tight')
+    print("\n Đã lưu biểu đồ: output/eda_country_distribution.png")
     plt.close()
     
     # Đề xuất
@@ -145,8 +145,8 @@ def analyze_quantity_outliers(df):
     axes[1].grid(True, alpha=0.3)
     
     plt.tight_layout()
-    plt.savefig('eda_quantity_outliers.png', dpi=300, bbox_inches='tight')
-    print("\n✓ Đã lưu biểu đồ: eda_quantity_outliers.png")
+    plt.savefig('output/eda_quantity_outliers.png', dpi=300, bbox_inches='tight')
+    print("\n✓ Đã lưu biểu đồ: output/eda_quantity_outliers.png")
     plt.close()
     
     # Đề xuất
@@ -244,8 +244,8 @@ def compare_top10_sellers_vs_revenue(df):
     ax2.grid(True, alpha=0.3, axis='y')
     
     plt.tight_layout()
-    plt.savefig('eda_top10_comparison.png', dpi=300, bbox_inches='tight')
-    print("\n✓ Đã lưu biểu đồ: eda_top10_comparison.png")
+    plt.savefig('output/eda_top10_comparison.png', dpi=300, bbox_inches='tight')
+    print("\n✓ Đã lưu biểu đồ: output/eda_top10_comparison.png")
     plt.close()
     
     # Phân tích insight
@@ -339,9 +339,9 @@ df_clean = apply_filters(df)
     print(report)
     
     # Lưu báo cáo ra file
-    with open('eda_report.txt', 'w', encoding='utf-8') as f:
+    with open('output/eda_report.txt', 'w', encoding='utf-8') as f:
         f.write(report)
-    print(" Đã lưu báo cáo: eda_report.txt")
+    print(" Đã lưu báo cáo: output/eda_report.txt")
     
     return report
 
@@ -370,10 +370,10 @@ def run_full_eda(input_file='src/data/dataset.xlsx'):
     print(" HOÀN THÀNH PHÂN TÍCH EDA!")
     print("="*70)
     print("\n Các file output đã tạo:")
-    print("   • eda_country_distribution.png - Phân bố theo quốc gia")
-    print("   • eda_quantity_outliers.png - Phân tích outliers")
-    print("   • eda_top10_comparison.png - So sánh Top 10")
-    print("   • eda_report.txt - Báo cáo tổng hợp\n")
+    print("   • output/eda_country_distribution.png - Phân bố theo quốc gia")
+    print("   • output/eda_quantity_outliers.png - Phân tích outliers")
+    print("   • output/eda_top10_comparison.png - So sánh Top 10")
+    print("   • output/eda_report.txt - Báo cáo tổng hợp\n")
     
     return df, country_stats, outliers, outlier_threshold, top10_qty, top10_rev
 
