@@ -5,6 +5,5 @@ if __name__ == "__main__":
     df = process_data(
         input_file='src/data/dataset.xlsx',
         output_csv='data/processed/mapped_data.csv',
-        output_json='data/processed/item_mapping.json',
-        output_txt='data/raw/transactions.txt'
+        output_json='data/processed/item_mapping.json'
     )
