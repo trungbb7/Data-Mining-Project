@@ -46,13 +46,22 @@ def clean_and_filter_data(input_file='data/processed/mapped_data.csv',
     # Xử lý giá trị âm (Price <= 0 hoặc Quantity <= 0)
     df = df[(df['UnitPrice'] > 0) & (df['Quantity'] > 0)]
     
-    # Convert sang format SPMF (StockCode đã là ItemID)
+    # Convert sang format SPMF (gom theo InvoiceNo)
+    # Mỗi dòng = 1 transaction, các items cách nhau bởi khoảng trắng
+    # Format: itemid:quantity:unit_profit itemid:quantity:unit_profit ...
+    transactions_written = 0
     with open(output_file, 'w', encoding='utf-8') as f:
-        for _, row in df.iterrows():
-            line = f"{int(row['StockCode'])}:{int(row['Quantity'])}:{row['Unit_Profit']:.2f}\n"
-            f.write(line)
+        for invoice_no, group in df.groupby('InvoiceNo'):
+            items = []
+            for _, row in group.iterrows():
+                item_str = f"{int(row['StockCode'])}:{int(row['Quantity'])}:{row['Unit_Profit']:.2f}"
+                items.append(item_str)
+            
+            if items:
+                f.write(" ".join(items) + "\n")
+                transactions_written += 1
     
-    print(f"Cleaned: {original_count:,} → {len(df):,} dòng ({len(df)/original_count*100:.1f}%) → {output_file}")
+    print(f"Cleaned: {original_count:,} → {len(df):,} items → {transactions_written:,} transactions → {output_file}")
     
     return df
 

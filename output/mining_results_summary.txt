@@ -1,0 +1,6 @@
+BÁO CÁO KẾT QUẢ MINING (OPTIMIZED)
+==================================
+
+Min Utility £1,000: 12904 patterns -> output/high_utility_itemsets_1000.txt
+Min Utility £5,000: 1396 patterns -> output/high_utility_itemsets_5000.txt
+Min Utility £10,000: 411 patterns -> output/high_utility_itemsets_10000.txt
