@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cửa Hàng Online - Danh Sách Sản Phẩm</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🛍️ Cửa Hàng Online</h1>
+            <nav>
+                <a href="index.html" class="active">Sản Phẩm</a>
+                <a href="cart.html" class="cart-link">
+                    🛒 Giỏ Hàng 
+                    <span id="cart-count" class="cart-count">0</span>
+                </a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="search-section">
+            <input type="text" id="search-input" placeholder="🔍 Tìm kiếm sản phẩm..." />
+        </div>
+
+        <div class="filter-section">
+            <label>
+                <input type="checkbox" id="show-unique" checked />
+                Chỉ hiển thị sản phẩm unique (loại trùng lặp)
+            </label>
+            <span id="product-count"></span>
+        </div>
+
+        <div id="products-grid" class="products-grid">
+            <div class="loading">Đang tải sản phẩm...</div>
+        </div>
+    </main>
+
+    <script src="products.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

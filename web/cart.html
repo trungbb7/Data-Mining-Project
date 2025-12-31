@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giỏ Hàng - Cửa Hàng Online</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🛍️ Cửa Hàng Online</h1>
+            <nav>
+                <a href="index.html">Sản Phẩm</a>
+                <a href="cart.html" class="active cart-link">
+                    🛒 Giỏ Hàng 
+                    <span id="cart-count" class="cart-count">0</span>
+                </a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <h2>Giỏ Hàng Của Bạn</h2>
+        
+        <div id="cart-items" class="cart-items">
+            <div class="empty-cart">
+                <p>Giỏ hàng trống</p>
+                <a href="index.html" class="btn">Tiếp tục mua sắm</a>
+            </div>
+        </div>
+
+        <div id="cart-summary" class="cart-summary" style="display: none;">
+            <h3>Tổng Cộng</h3>
+            <p class="total-price">£<span id="total-price">0.00</span></p>
+            <button class="btn btn-primary" onclick="checkout()">Thanh Toán</button>
+        </div>
+
+        <div id="recommendations-section" class="recommendations-section" style="display: none;">
+            <h2>💡 Sản Phẩm Gợi Ý Cho Bạn</h2>
+            <p class="recommendation-note">Dựa trên các sản phẩm trong giỏ hàng của bạn</p>
+            <div id="recommendations-grid" class="products-grid"></div>
+        </div>
+    </main>
+
+    <script src="products.js"></script>
+    <script src="cart.js"></script>
+</body>
+</html>
