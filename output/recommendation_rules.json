@@ -1,0 +1,5518 @@
+[
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO BAG RED RETROSPOT",
+        "expected_utility": 40629
+    },
+    {
+        "input": [
+            "JUMBO BAG RED RETROSPOT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 40629
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SUKI  SHOULDER BAG",
+        "expected_utility": 36053
+    },
+    {
+        "input": [
+            "SUKI  SHOULDER BAG"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 36053
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "GREEN REGENCY TEACUP AND SAUCER",
+        "expected_utility": 34160
+    },
+    {
+        "input": [
+            "GREEN REGENCY TEACUP AND SAUCER"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 34160
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RECYCLING BAG RETROSPOT ",
+        "expected_utility": 33592
+    },
+    {
+        "input": [
+            "RECYCLING BAG RETROSPOT "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 33592
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JAM MAKING SET PRINTED",
+        "expected_utility": 33511
+    },
+    {
+        "input": [
+            "JAM MAKING SET PRINTED"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 33511
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RED TOADSTOOL LED NIGHT LIGHT",
+        "expected_utility": 33144
+    },
+    {
+        "input": [
+            "RED TOADSTOOL LED NIGHT LIGHT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 33144
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO STORAGE BAG SUKI",
+        "expected_utility": 32385
+    },
+    {
+        "input": [
+            "JUMBO STORAGE BAG SUKI"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 32385
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO SHOPPER VINTAGE RED PAISLEY",
+        "expected_utility": 31684
+    },
+    {
+        "input": [
+            "JUMBO SHOPPER VINTAGE RED PAISLEY"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 31684
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO BAG WOODLAND ANIMALS",
+        "expected_utility": 31578
+    },
+    {
+        "input": [
+            "JUMBO BAG WOODLAND ANIMALS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 31578
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "NATURAL SLATE HEART CHALKBOARD ",
+        "expected_utility": 31338
+    },
+    {
+        "input": [
+            "NATURAL SLATE HEART CHALKBOARD "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 31338
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "ROSES REGENCY TEACUP AND SAUCER ",
+        "expected_utility": 31229
+    },
+    {
+        "input": [
+            "ROSES REGENCY TEACUP AND SAUCER "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 31229
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JAM MAKING SET WITH JARS",
+        "expected_utility": 30696
+    },
+    {
+        "input": [
+            "JAM MAKING SET WITH JARS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 30696
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RECIPE BOX PANTRY YELLOW DESIGN",
+        "expected_utility": 30180
+    },
+    {
+        "input": [
+            "RECIPE BOX PANTRY YELLOW DESIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 30180
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO BAG PINK POLKADOT",
+        "expected_utility": 29128
+    },
+    {
+        "input": [
+            "JUMBO BAG PINK POLKADOT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 29128
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CHARLIE+LOLA PINK HOT WATER BOTTLE",
+        "expected_utility": 28048
+    },
+    {
+        "input": [
+            "CHARLIE+LOLA PINK HOT WATER BOTTLE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 28048
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "POPCORN HOLDER",
+        "expected_utility": 27980
+    },
+    {
+        "input": [
+            "POPCORN HOLDER"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 27980
+    },
+    {
+        "input": [
+            "SET OF 3 CAKE TINS PANTRY DESIGN "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 26903
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 3 CAKE TINS PANTRY DESIGN ",
+        "expected_utility": 26903
+    },
+    {
+        "input": [
+            "JUMBO BAG APPLES"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 26546
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO BAG APPLES",
+        "expected_utility": 26546
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SKULL SHOULDER BAG",
+        "expected_utility": 26533
+    },
+    {
+        "input": [
+            "SKULL SHOULDER BAG"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 26533
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "DOLLY GIRL LUNCH BOX",
+        "expected_utility": 26393
+    },
+    {
+        "input": [
+            "DOLLY GIRL LUNCH BOX"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 26393
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "STRAWBERRY CERAMIC TRINKET POT",
+        "expected_utility": 26311
+    },
+    {
+        "input": [
+            "STRAWBERRY CERAMIC TRINKET POT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 26311
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "ROTATING LEAVES T-LIGHT HOLDER",
+        "expected_utility": 25984
+    },
+    {
+        "input": [
+            "ROTATING LEAVES T-LIGHT HOLDER"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 25984
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO BAG OWLS",
+        "expected_utility": 25945
+    },
+    {
+        "input": [
+            "JUMBO BAG OWLS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 25945
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "6 RIBBONS RUSTIC CHARM",
+        "expected_utility": 25809
+    },
+    {
+        "input": [
+            "6 RIBBONS RUSTIC CHARM"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 25809
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "BATHROOM METAL SIGN",
+        "expected_utility": 25795
+    },
+    {
+        "input": [
+            "BATHROOM METAL SIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 25795
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO  BAG BAROQUE BLACK WHITE",
+        "expected_utility": 25493
+    },
+    {
+        "input": [
+            "JUMBO  BAG BAROQUE BLACK WHITE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 25493
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "VICTORIAN GLASS HANGING T-LIGHT",
+        "expected_utility": 25385
+    },
+    {
+        "input": [
+            "VICTORIAN GLASS HANGING T-LIGHT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 25385
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "VINTAGE SNAP CARDS",
+        "expected_utility": 24975
+    },
+    {
+        "input": [
+            "VINTAGE SNAP CARDS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 24975
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO BAG SCANDINAVIAN BLUE PAISLEY",
+        "expected_utility": 24803
+    },
+    {
+        "input": [
+            "JUMBO BAG SCANDINAVIAN BLUE PAISLEY"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 24803
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SMALL HEART MEASURING SPOONS",
+        "expected_utility": 24692
+    },
+    {
+        "input": [
+            "SMALL HEART MEASURING SPOONS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 24692
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PAPER CHAIN KIT 50'S CHRISTMAS ",
+        "expected_utility": 24343
+    },
+    {
+        "input": [
+            "PAPER CHAIN KIT 50'S CHRISTMAS "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 24343
+    },
+    {
+        "input": [
+            "PINK REGENCY TEACUP AND SAUCER"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 24222
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PINK REGENCY TEACUP AND SAUCER",
+        "expected_utility": 24222
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "WOODEN PICTURE FRAME WHITE FINISH",
+        "expected_utility": 23851
+    },
+    {
+        "input": [
+            "WOODEN PICTURE FRAME WHITE FINISH"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 23851
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "HEART OF WICKER SMALL",
+        "expected_utility": 23639
+    },
+    {
+        "input": [
+            "HEART OF WICKER SMALL"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 23639
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CHRISTMAS CRAFT LITTLE FRIENDS",
+        "expected_utility": 23560
+    },
+    {
+        "input": [
+            "CHRISTMAS CRAFT LITTLE FRIENDS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 23560
+    },
+    {
+        "input": [
+            "SET OF 4 PANTRY JELLY MOULDS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 23230
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 4 PANTRY JELLY MOULDS",
+        "expected_utility": 23230
+    },
+    {
+        "input": [
+            "SET OF 3 REGENCY CAKE TINS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 23127
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 3 REGENCY CAKE TINS",
+        "expected_utility": 23127
+    },
+    {
+        "input": [
+            "ANTIQUE SILVER T-LIGHT GLASS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 23029
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "ANTIQUE SILVER T-LIGHT GLASS",
+        "expected_utility": 23029
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SPACEBOY LUNCH BOX ",
+        "expected_utility": 22806
+    },
+    {
+        "input": [
+            "SPACEBOY LUNCH BOX "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 22806
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "LUNCH BOX I LOVE LONDON",
+        "expected_utility": 21910
+    },
+    {
+        "input": [
+            "LUNCH BOX I LOVE LONDON"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 21910
+    },
+    {
+        "input": [
+            "RED SPOTTY BISCUIT TIN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 21684
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RED SPOTTY BISCUIT TIN",
+        "expected_utility": 21684
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CHARLIE + LOLA RED HOT WATER BOTTLE",
+        "expected_utility": 21520
+    },
+    {
+        "input": [
+            "CHARLIE + LOLA RED HOT WATER BOTTLE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 21520
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "TOOTHPASTE TUBE PEN",
+        "expected_utility": 21504
+    },
+    {
+        "input": [
+            "TOOTHPASTE TUBE PEN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 21504
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "FLORAL FOLK STATIONERY SET",
+        "expected_utility": 21445
+    },
+    {
+        "input": [
+            "FLORAL FOLK STATIONERY SET"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 21445
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO BAG PINK VINTAGE PAISLEY",
+        "expected_utility": 21442
+    },
+    {
+        "input": [
+            "JUMBO BAG PINK VINTAGE PAISLEY"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 21442
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "AIRLINE BAG VINTAGE TOKYO 78",
+        "expected_utility": 21428
+    },
+    {
+        "input": [
+            "AIRLINE BAG VINTAGE TOKYO 78"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 21428
+    },
+    {
+        "input": [
+            "POTTERING MUG"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 21389
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "POTTERING MUG",
+        "expected_utility": 21389
+    },
+    {
+        "input": [
+            "GARDENERS KNEELING PAD KEEP CALM "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 21322
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "GARDENERS KNEELING PAD KEEP CALM ",
+        "expected_utility": 21322
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "REGENCY CAKESTAND 3 TIER",
+        "expected_utility": 21153
+    },
+    {
+        "input": [
+            "REGENCY CAKESTAND 3 TIER"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 21153
+    },
+    {
+        "input": [
+            "RABBIT NIGHT LIGHT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 21137
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RABBIT NIGHT LIGHT",
+        "expected_utility": 21137
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO STORAGE BAG SKULLS",
+        "expected_utility": 20823
+    },
+    {
+        "input": [
+            "JUMBO STORAGE BAG SKULLS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 20823
+    },
+    {
+        "input": [
+            "RED RETROSPOT SHOPPER BAG"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 20656
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RED RETROSPOT SHOPPER BAG",
+        "expected_utility": 20656
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "LOVEBIRD HANGING DECORATION WHITE ",
+        "expected_utility": 20607
+    },
+    {
+        "input": [
+            "LOVEBIRD HANGING DECORATION WHITE "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 20607
+    },
+    {
+        "input": [
+            "POTTERING IN THE SHED METAL SIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 20505
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "POTTERING IN THE SHED METAL SIGN",
+        "expected_utility": 20505
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "LARGE HEART MEASURING SPOONS",
+        "expected_utility": 20040
+    },
+    {
+        "input": [
+            "LARGE HEART MEASURING SPOONS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 20040
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "LUNCH BAG RED SPOTTY",
+        "expected_utility": 19940
+    },
+    {
+        "input": [
+            "LUNCH BAG RED SPOTTY"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 19940
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "METAL 4 HOOK HANGER FRENCH CHATEAU",
+        "expected_utility": 19912
+    },
+    {
+        "input": [
+            "METAL 4 HOOK HANGER FRENCH CHATEAU"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 19912
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO BAG TOYS ",
+        "expected_utility": 19885
+    },
+    {
+        "input": [
+            "JUMBO BAG TOYS "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 19885
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "BALLOONS  WRITING SET ",
+        "expected_utility": 19844
+    },
+    {
+        "input": [
+            "BALLOONS  WRITING SET "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 19844
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CHRISTMAS CRAFT TREE TOP ANGEL",
+        "expected_utility": 19802
+    },
+    {
+        "input": [
+            "CHRISTMAS CRAFT TREE TOP ANGEL"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 19802
+    },
+    {
+        "input": [
+            "SET 3 RETROSPOT TEA,COFFEE,SUGAR"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 19776
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET 3 RETROSPOT TEA,COFFEE,SUGAR",
+        "expected_utility": 19776
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CREAM HANGING HEART T-LIGHT HOLDER",
+        "expected_utility": 19712
+    },
+    {
+        "input": [
+            "CREAM HANGING HEART T-LIGHT HOLDER"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 19712
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "MODERN FLORAL STATIONERY SET",
+        "expected_utility": 19556
+    },
+    {
+        "input": [
+            "MODERN FLORAL STATIONERY SET"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 19556
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "72 CAKE CASES VINTAGE CHRISTMAS",
+        "expected_utility": 19357
+    },
+    {
+        "input": [
+            "72 CAKE CASES VINTAGE CHRISTMAS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 19357
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "FULL ENGLISH BREAKFAST PLATE",
+        "expected_utility": 19336
+    },
+    {
+        "input": [
+            "FULL ENGLISH BREAKFAST PLATE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 19336
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CHARLOTTE BAG SUKI DESIGN",
+        "expected_utility": 19269
+    },
+    {
+        "input": [
+            "CHARLOTTE BAG SUKI DESIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 19269
+    },
+    {
+        "input": [
+            "WOODLAND CHARLOTTE BAG"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 19246
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "WOODLAND CHARLOTTE BAG",
+        "expected_utility": 19246
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PACK OF 72 RETROSPOT CAKE CASES",
+        "expected_utility": 19201
+    },
+    {
+        "input": [
+            "PACK OF 72 RETROSPOT CAKE CASES"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 19201
+    },
+    {
+        "input": [
+            "SET OF 72 PINK HEART PAPER DOILIES"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 19191
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 72 PINK HEART PAPER DOILIES",
+        "expected_utility": 19191
+    },
+    {
+        "input": [
+            "JUMBO BAG SPACEBOY DESIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 19182
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO BAG SPACEBOY DESIGN",
+        "expected_utility": 19182
+    },
+    {
+        "input": [
+            "TOILET SIGN OCCUPIED OR VACANT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 19117
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "TOILET SIGN OCCUPIED OR VACANT",
+        "expected_utility": 19117
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PAPER CHAIN KIT RETROSPOT",
+        "expected_utility": 19052
+    },
+    {
+        "input": [
+            "PAPER CHAIN KIT RETROSPOT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 19052
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "WOODEN BOX OF DOMINOES",
+        "expected_utility": 18976
+    },
+    {
+        "input": [
+            "WOODEN BOX OF DOMINOES"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 18976
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "TOY TIDY PINK POLKADOT",
+        "expected_utility": 18907
+    },
+    {
+        "input": [
+            "TOY TIDY PINK POLKADOT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 18907
+    },
+    {
+        "input": [
+            "JUMBO BAG ALPHABET"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 18829
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO BAG ALPHABET",
+        "expected_utility": 18829
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "VINTAGE PAISLEY STATIONERY SET",
+        "expected_utility": 18757
+    },
+    {
+        "input": [
+            "VINTAGE PAISLEY STATIONERY SET"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 18757
+    },
+    {
+        "input": [
+            "GARDENERS KNEELING PAD CUP OF TEA "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 18502
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "GARDENERS KNEELING PAD CUP OF TEA ",
+        "expected_utility": 18502
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PACK OF 60 PINK PAISLEY CAKE CASES",
+        "expected_utility": 18483
+    },
+    {
+        "input": [
+            "PACK OF 60 PINK PAISLEY CAKE CASES"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 18483
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "KINGS CHOICE TEA CADDY ",
+        "expected_utility": 18327
+    },
+    {
+        "input": [
+            "KINGS CHOICE TEA CADDY "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 18327
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET/20 RED RETROSPOT PAPER NAPKINS ",
+        "expected_utility": 18320
+    },
+    {
+        "input": [
+            "SET/20 RED RETROSPOT PAPER NAPKINS "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 18320
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 3 HEART COOKIE CUTTERS",
+        "expected_utility": 18295
+    },
+    {
+        "input": [
+            "SET OF 3 HEART COOKIE CUTTERS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 18295
+    },
+    {
+        "input": [
+            "RED RETROSPOT CHARLOTTE BAG"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 18173
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RED RETROSPOT CHARLOTTE BAG",
+        "expected_utility": 18173
+    },
+    {
+        "input": [
+            "SET OF 6 SPICE TINS PANTRY DESIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 18086
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 6 SPICE TINS PANTRY DESIGN",
+        "expected_utility": 18086
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "STRAWBERRY LUNCH BOX WITH CUTLERY",
+        "expected_utility": 17923
+    },
+    {
+        "input": [
+            "STRAWBERRY LUNCH BOX WITH CUTLERY"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 17923
+    },
+    {
+        "input": [
+            "SET 6 SCHOOL MILK BOTTLES IN CRATE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 17882
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET 6 SCHOOL MILK BOTTLES IN CRATE",
+        "expected_utility": 17882
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "LUNCH BOX WITH CUTLERY RETROSPOT ",
+        "expected_utility": 17878
+    },
+    {
+        "input": [
+            "LUNCH BOX WITH CUTLERY RETROSPOT "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 17878
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RETROSPOT TEA SET CERAMIC 11 PC ",
+        "expected_utility": 17785
+    },
+    {
+        "input": [
+            "RETROSPOT TEA SET CERAMIC 11 PC "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 17785
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 6 SOLDIER SKITTLES",
+        "expected_utility": 17774
+    },
+    {
+        "input": [
+            "SET OF 6 SOLDIER SKITTLES"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 17774
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "POLKADOT RAIN HAT ",
+        "expected_utility": 17748
+    },
+    {
+        "input": [
+            "POLKADOT RAIN HAT "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 17748
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PHOTO CUBE",
+        "expected_utility": 17735
+    },
+    {
+        "input": [
+            "PHOTO CUBE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 17735
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PIZZA PLATE IN BOX",
+        "expected_utility": 17719
+    },
+    {
+        "input": [
+            "PIZZA PLATE IN BOX"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 17719
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "FRYING PAN UNION FLAG",
+        "expected_utility": 17705
+    },
+    {
+        "input": [
+            "FRYING PAN UNION FLAG"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 17705
+    },
+    {
+        "input": [
+            "PLEASE ONE PERSON METAL SIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 17697
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PLEASE ONE PERSON METAL SIGN",
+        "expected_utility": 17697
+    },
+    {
+        "input": [
+            "SKULL LUNCH BOX WITH CUTLERY "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 17641
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SKULL LUNCH BOX WITH CUTLERY ",
+        "expected_utility": 17641
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET/2 RED RETROSPOT TEA TOWELS ",
+        "expected_utility": 17461
+    },
+    {
+        "input": [
+            "SET/2 RED RETROSPOT TEA TOWELS "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 17461
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SMALL GLASS HEART TRINKET POT",
+        "expected_utility": 17449
+    },
+    {
+        "input": [
+            "SMALL GLASS HEART TRINKET POT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 17449
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 3 BUTTERFLY COOKIE CUTTERS",
+        "expected_utility": 17408
+    },
+    {
+        "input": [
+            "SET OF 3 BUTTERFLY COOKIE CUTTERS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 17408
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PAPER BUNTING RETROSPOT",
+        "expected_utility": 17330
+    },
+    {
+        "input": [
+            "PAPER BUNTING RETROSPOT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 17330
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CHARLOTTE BAG PINK POLKADOT",
+        "expected_utility": 17263
+    },
+    {
+        "input": [
+            "CHARLOTTE BAG PINK POLKADOT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 17263
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET 2 TEA TOWELS I LOVE LONDON ",
+        "expected_utility": 17257
+    },
+    {
+        "input": [
+            "SET 2 TEA TOWELS I LOVE LONDON "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 17257
+    },
+    {
+        "input": [
+            "SET/3 RED GINGHAM ROSE STORAGE BOX"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 17183
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET/3 RED GINGHAM ROSE STORAGE BOX",
+        "expected_utility": 17183
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "WALL TIDY RETROSPOT ",
+        "expected_utility": 17174
+    },
+    {
+        "input": [
+            "WALL TIDY RETROSPOT "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 17174
+    },
+    {
+        "input": [
+            "NATURAL SLATE CHALKBOARD LARGE "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 16904
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "NATURAL SLATE CHALKBOARD LARGE ",
+        "expected_utility": 16904
+    },
+    {
+        "input": [
+            "REGENCY TEA PLATE ROSES "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 16902
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "REGENCY TEA PLATE ROSES ",
+        "expected_utility": 16902
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "LUNCH BAG WOODLAND",
+        "expected_utility": 16850
+    },
+    {
+        "input": [
+            "LUNCH BAG WOODLAND"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 16850
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "VICTORIAN SEWING BOX MEDIUM",
+        "expected_utility": 16527
+    },
+    {
+        "input": [
+            "VICTORIAN SEWING BOX MEDIUM"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 16527
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "OWL DOORSTOP",
+        "expected_utility": 16526
+    },
+    {
+        "input": [
+            "OWL DOORSTOP"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 16526
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "STRAWBERRY SHOPPER BAG",
+        "expected_utility": 16491
+    },
+    {
+        "input": [
+            "STRAWBERRY SHOPPER BAG"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 16491
+    },
+    {
+        "input": [
+            "REGENCY TEA PLATE GREEN "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 16481
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "REGENCY TEA PLATE GREEN ",
+        "expected_utility": 16481
+    },
+    {
+        "input": [
+            "PARTY BUNTING"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 16359
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PARTY BUNTING",
+        "expected_utility": 16359
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "HEART IVORY TRELLIS SMALL",
+        "expected_utility": 16353
+    },
+    {
+        "input": [
+            "HEART IVORY TRELLIS SMALL"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 16353
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET 12 RETRO WHITE CHALK STICKS",
+        "expected_utility": 16338
+    },
+    {
+        "input": [
+            "SET 12 RETRO WHITE CHALK STICKS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 16338
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET 10 NIGHT OWL LIGHTS",
+        "expected_utility": 16284
+    },
+    {
+        "input": [
+            "SET 10 NIGHT OWL LIGHTS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 16284
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "MINI LADLE LOVE HEART PINK",
+        "expected_utility": 16278
+    },
+    {
+        "input": [
+            "MINI LADLE LOVE HEART PINK"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 16278
+    },
+    {
+        "input": [
+            "PARTY BUNTING"
+        ],
+        "suggest": "REGENCY CAKESTAND 3 TIER",
+        "expected_utility": 16276
+    },
+    {
+        "input": [
+            "REGENCY CAKESTAND 3 TIER"
+        ],
+        "suggest": "PARTY BUNTING",
+        "expected_utility": 16276
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "ROTATING SILVER ANGELS T-LIGHT HLDR",
+        "expected_utility": 16243
+    },
+    {
+        "input": [
+            "ROTATING SILVER ANGELS T-LIGHT HLDR"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 16243
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 20 KIDS COOKIE CUTTERS",
+        "expected_utility": 16195
+    },
+    {
+        "input": [
+            "SET OF 20 KIDS COOKIE CUTTERS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 16195
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CHRISTMAS TREE STAR DECORATION",
+        "expected_utility": 16143
+    },
+    {
+        "input": [
+            "CHRISTMAS TREE STAR DECORATION"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 16143
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "GINGERBREAD MAN COOKIE CUTTER",
+        "expected_utility": 16061
+    },
+    {
+        "input": [
+            "GINGERBREAD MAN COOKIE CUTTER"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 16061
+    },
+    {
+        "input": [
+            "TRADITIONAL KNITTING NANCY"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 16027
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "TRADITIONAL KNITTING NANCY",
+        "expected_utility": 16027
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO BAG DOLLY GIRL DESIGN",
+        "expected_utility": 15985
+    },
+    {
+        "input": [
+            "JUMBO BAG DOLLY GIRL DESIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15985
+    },
+    {
+        "input": [
+            "CARD SUKI BIRTHDAY"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15922
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CARD SUKI BIRTHDAY",
+        "expected_utility": 15922
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "HEART DECORATION RUSTIC HANGING ",
+        "expected_utility": 15886
+    },
+    {
+        "input": [
+            "HEART DECORATION RUSTIC HANGING "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15886
+    },
+    {
+        "input": [
+            "JUMBO BAG RED RETROSPOT"
+        ],
+        "suggest": "JUMBO BAG PINK POLKADOT",
+        "expected_utility": 15864
+    },
+    {
+        "input": [
+            "JUMBO BAG PINK POLKADOT"
+        ],
+        "suggest": "JUMBO BAG RED RETROSPOT",
+        "expected_utility": 15864
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "VINTAGE CREAM DOG FOOD CONTAINER",
+        "expected_utility": 15826
+    },
+    {
+        "input": [
+            "VINTAGE CREAM DOG FOOD CONTAINER"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15826
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "HOT WATER BOTTLE TEA AND SYMPATHY",
+        "expected_utility": 15799
+    },
+    {
+        "input": [
+            "HOT WATER BOTTLE TEA AND SYMPATHY"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15799
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "APPLE BATH SPONGE",
+        "expected_utility": 15728
+    },
+    {
+        "input": [
+            "APPLE BATH SPONGE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15728
+    },
+    {
+        "input": [
+            "FOUR HOOK  WHITE LOVEBIRDS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15680
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "FOUR HOOK  WHITE LOVEBIRDS",
+        "expected_utility": 15680
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RIBBON REEL CHRISTMAS SOCK BAUBLE",
+        "expected_utility": 15667
+    },
+    {
+        "input": [
+            "RIBBON REEL CHRISTMAS SOCK BAUBLE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15667
+    },
+    {
+        "input": [
+            "OVERNIGHT BAG VINTAGE ROSE PAISLEY"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15615
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "OVERNIGHT BAG VINTAGE ROSE PAISLEY",
+        "expected_utility": 15615
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "BOX OF 24 COCKTAIL PARASOLS",
+        "expected_utility": 15509
+    },
+    {
+        "input": [
+            "BOX OF 24 COCKTAIL PARASOLS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15509
+    },
+    {
+        "input": [
+            "PAPER CHAIN KIT VINTAGE CHRISTMAS"
+        ],
+        "suggest": "PAPER CHAIN KIT 50'S CHRISTMAS ",
+        "expected_utility": 15498
+    },
+    {
+        "input": [
+            "PAPER CHAIN KIT 50'S CHRISTMAS "
+        ],
+        "suggest": "PAPER CHAIN KIT VINTAGE CHRISTMAS",
+        "expected_utility": 15498
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SCOTTIE DOGS BABY BIB",
+        "expected_utility": 15467
+    },
+    {
+        "input": [
+            "SCOTTIE DOGS BABY BIB"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15467
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "BUTTON BOX ",
+        "expected_utility": 15421
+    },
+    {
+        "input": [
+            "BUTTON BOX "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15421
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET/6 RED SPOTTY PAPER PLATES",
+        "expected_utility": 15358
+    },
+    {
+        "input": [
+            "SET/6 RED SPOTTY PAPER PLATES"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15358
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "STRAWBERRY CHARLOTTE BAG",
+        "expected_utility": 15333
+    },
+    {
+        "input": [
+            "STRAWBERRY CHARLOTTE BAG"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15333
+    },
+    {
+        "input": [
+            "BEADED CRYSTAL HEART PINK ON STICK"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15284
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "BEADED CRYSTAL HEART PINK ON STICK",
+        "expected_utility": 15284
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "TRADITIONAL WOODEN CATCH CUP GAME ",
+        "expected_utility": 15257
+    },
+    {
+        "input": [
+            "TRADITIONAL WOODEN CATCH CUP GAME "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15257
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "KNITTED UNION FLAG HOT WATER BOTTLE",
+        "expected_utility": 15215
+    },
+    {
+        "input": [
+            "KNITTED UNION FLAG HOT WATER BOTTLE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15215
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PAPER CHAIN KIT VINTAGE CHRISTMAS",
+        "expected_utility": 15202
+    },
+    {
+        "input": [
+            "PAPER CHAIN KIT VINTAGE CHRISTMAS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15202
+    },
+    {
+        "input": [
+            "GOLD MINI TAPE MEASURE "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15107
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "GOLD MINI TAPE MEASURE ",
+        "expected_utility": 15107
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "DELUXE SEWING KIT ",
+        "expected_utility": 15103
+    },
+    {
+        "input": [
+            "DELUXE SEWING KIT "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15103
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "4 TRADITIONAL SPINNING TOPS",
+        "expected_utility": 15089
+    },
+    {
+        "input": [
+            "4 TRADITIONAL SPINNING TOPS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15089
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "ENAMEL BREAD BIN CREAM",
+        "expected_utility": 15077
+    },
+    {
+        "input": [
+            "ENAMEL BREAD BIN CREAM"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15077
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "VINTAGE SNAKES & LADDERS",
+        "expected_utility": 15060
+    },
+    {
+        "input": [
+            "VINTAGE SNAKES & LADDERS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15060
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "VINTAGE HEADS AND TAILS CARD GAME ",
+        "expected_utility": 15059
+    },
+    {
+        "input": [
+            "VINTAGE HEADS AND TAILS CARD GAME "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15059
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "GIN AND TONIC MUG",
+        "expected_utility": 15053
+    },
+    {
+        "input": [
+            "GIN AND TONIC MUG"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15053
+    },
+    {
+        "input": [
+            "SMALL DOLLY MIX DESIGN ORANGE BOWL"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 15009
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SMALL DOLLY MIX DESIGN ORANGE BOWL",
+        "expected_utility": 15009
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "GLASS JAR DAISY FRESH COTTON WOOL",
+        "expected_utility": 14973
+    },
+    {
+        "input": [
+            "GLASS JAR DAISY FRESH COTTON WOOL"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14973
+    },
+    {
+        "input": [
+            "ASSORTED COLOURS SILK FAN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14968
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "ASSORTED COLOURS SILK FAN",
+        "expected_utility": 14968
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "ALARM CLOCK BAKELIKE PINK",
+        "expected_utility": 14951
+    },
+    {
+        "input": [
+            "ALARM CLOCK BAKELIKE PINK"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14951
+    },
+    {
+        "input": [
+            "ROLL WRAP VINTAGE CHRISTMAS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14934
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "ROLL WRAP VINTAGE CHRISTMAS",
+        "expected_utility": 14934
+    },
+    {
+        "input": [
+            "JUMBO BAG 50'S CHRISTMAS "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14912
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO BAG 50'S CHRISTMAS ",
+        "expected_utility": 14912
+    },
+    {
+        "input": [
+            "DOORMAT KEEP CALM AND COME IN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14910
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "DOORMAT KEEP CALM AND COME IN",
+        "expected_utility": 14910
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "HEART OF WICKER LARGE",
+        "expected_utility": 14889
+    },
+    {
+        "input": [
+            "HEART OF WICKER LARGE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14889
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "ALARM CLOCK BAKELIKE GREEN",
+        "expected_utility": 14869
+    },
+    {
+        "input": [
+            "ALARM CLOCK BAKELIKE GREEN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14869
+    },
+    {
+        "input": [
+            "MEMO BOARD RETROSPOT  DESIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14804
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "MEMO BOARD RETROSPOT  DESIGN",
+        "expected_utility": 14804
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "BIRTHDAY CARD, RETRO SPOT",
+        "expected_utility": 14794
+    },
+    {
+        "input": [
+            "BIRTHDAY CARD, RETRO SPOT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14794
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "BEADED CRYSTAL HEART GREEN ON STICK",
+        "expected_utility": 14784
+    },
+    {
+        "input": [
+            "BEADED CRYSTAL HEART GREEN ON STICK"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14784
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "HAND WARMER OWL DESIGN",
+        "expected_utility": 14772
+    },
+    {
+        "input": [
+            "HAND WARMER OWL DESIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14772
+    },
+    {
+        "input": [
+            "PINK BABY BUNTING"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14711
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PINK BABY BUNTING",
+        "expected_utility": 14711
+    },
+    {
+        "input": [
+            "ROSES REGENCY TEACUP AND SAUCER "
+        ],
+        "suggest": "REGENCY CAKESTAND 3 TIER",
+        "expected_utility": 14695
+    },
+    {
+        "input": [
+            "REGENCY CAKESTAND 3 TIER"
+        ],
+        "suggest": "ROSES REGENCY TEACUP AND SAUCER ",
+        "expected_utility": 14695
+    },
+    {
+        "input": [
+            "SWEETHEART CERAMIC TRINKET BOX"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14607
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SWEETHEART CERAMIC TRINKET BOX",
+        "expected_utility": 14607
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "LIPSTICK PEN RED",
+        "expected_utility": 14589
+    },
+    {
+        "input": [
+            "LIPSTICK PEN RED"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14589
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET/4 RED MINI ROSE CANDLE IN BOWL",
+        "expected_utility": 14574
+    },
+    {
+        "input": [
+            "SET/4 RED MINI ROSE CANDLE IN BOWL"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14574
+    },
+    {
+        "input": [
+            "SWEETHEART RECIPE BOOK STAND"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14561
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SWEETHEART RECIPE BOOK STAND",
+        "expected_utility": 14561
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "LAUNDRY 15C METAL SIGN",
+        "expected_utility": 14466
+    },
+    {
+        "input": [
+            "LAUNDRY 15C METAL SIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14466
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "HAND WARMER SCOTTY DOG DESIGN",
+        "expected_utility": 14426
+    },
+    {
+        "input": [
+            "HAND WARMER SCOTTY DOG DESIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14426
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "DINOSAURS  WRITING SET ",
+        "expected_utility": 14392
+    },
+    {
+        "input": [
+            "DINOSAURS  WRITING SET "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14392
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PACK OF 12 SUKI TISSUES ",
+        "expected_utility": 14377
+    },
+    {
+        "input": [
+            "PACK OF 12 SUKI TISSUES "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14377
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "BROWN  PIRATE TREASURE CHEST ",
+        "expected_utility": 14268
+    },
+    {
+        "input": [
+            "BROWN  PIRATE TREASURE CHEST "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14268
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "AIRLINE LOUNGE,METAL SIGN",
+        "expected_utility": 14259
+    },
+    {
+        "input": [
+            "AIRLINE LOUNGE,METAL SIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14259
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PICTURE DOMINOES",
+        "expected_utility": 14232
+    },
+    {
+        "input": [
+            "PICTURE DOMINOES"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14232
+    },
+    {
+        "input": [
+            "RED RETROSPOT ROUND CAKE TINS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14223
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RED RETROSPOT ROUND CAKE TINS",
+        "expected_utility": 14223
+    },
+    {
+        "input": [
+            "TOAST ITS - FAIRY FLOWER"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14220
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "TOAST ITS - FAIRY FLOWER",
+        "expected_utility": 14220
+    },
+    {
+        "input": [
+            "S/4 CACTI CANDLES"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14196
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "S/4 CACTI CANDLES",
+        "expected_utility": 14196
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PICNIC BASKET WICKER 60 PIECES",
+        "expected_utility": 14179
+    },
+    {
+        "input": [
+            "PICNIC BASKET WICKER 60 PIECES"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14179
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "YOU'RE CONFUSING ME METAL SIGN ",
+        "expected_utility": 14147
+    },
+    {
+        "input": [
+            "YOU'RE CONFUSING ME METAL SIGN "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14147
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SEWING SUSAN 21 NEEDLE SET",
+        "expected_utility": 14103
+    },
+    {
+        "input": [
+            "SEWING SUSAN 21 NEEDLE SET"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14103
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PACK OF 12 LONDON TISSUES ",
+        "expected_utility": 14076
+    },
+    {
+        "input": [
+            "PACK OF 12 LONDON TISSUES "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 14076
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RED RETROSPOT OVEN GLOVE ",
+        "expected_utility": 13978
+    },
+    {
+        "input": [
+            "RED RETROSPOT OVEN GLOVE "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13978
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CARD PARTY GAMES ",
+        "expected_utility": 13973
+    },
+    {
+        "input": [
+            "CARD PARTY GAMES "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13973
+    },
+    {
+        "input": [
+            "SET OF 36 PAISLEY FLOWER DOILIES"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13970
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 36 PAISLEY FLOWER DOILIES",
+        "expected_utility": 13970
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CHRISTMAS CRAFT WHITE FAIRY ",
+        "expected_utility": 13893
+    },
+    {
+        "input": [
+            "CHRISTMAS CRAFT WHITE FAIRY "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13893
+    },
+    {
+        "input": [
+            "JUMBO BAG STRAWBERRY"
+        ],
+        "suggest": "JUMBO BAG RED RETROSPOT",
+        "expected_utility": 13886
+    },
+    {
+        "input": [
+            "JUMBO BAG RED RETROSPOT"
+        ],
+        "suggest": "JUMBO BAG STRAWBERRY",
+        "expected_utility": 13886
+    },
+    {
+        "input": [
+            "SMALL MARSHMALLOWS PINK BOWL"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13831
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SMALL MARSHMALLOWS PINK BOWL",
+        "expected_utility": 13831
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "BOX OF 6 ASSORTED COLOUR TEASPOONS",
+        "expected_utility": 13827
+    },
+    {
+        "input": [
+            "BOX OF 6 ASSORTED COLOUR TEASPOONS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13827
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "BINGO SET",
+        "expected_utility": 13811
+    },
+    {
+        "input": [
+            "BINGO SET"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13811
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 6 FUNKY BEAKERS",
+        "expected_utility": 13786
+    },
+    {
+        "input": [
+            "SET OF 6 FUNKY BEAKERS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13786
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RED RETROSPOT CAKE STAND",
+        "expected_utility": 13692
+    },
+    {
+        "input": [
+            "RED RETROSPOT CAKE STAND"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13692
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PICNIC BASKET WICKER LARGE",
+        "expected_utility": 13689
+    },
+    {
+        "input": [
+            "PICNIC BASKET WICKER LARGE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13689
+    },
+    {
+        "input": [
+            "ROLL WRAP 50'S CHRISTMAS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13684
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "ROLL WRAP 50'S CHRISTMAS",
+        "expected_utility": 13684
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CHILDRENS APRON SPACEBOY DESIGN",
+        "expected_utility": 13665
+    },
+    {
+        "input": [
+            "CHILDRENS APRON SPACEBOY DESIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13665
+    },
+    {
+        "input": [
+            "SET OF 5 LUCKY CAT MAGNETS "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13632
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 5 LUCKY CAT MAGNETS ",
+        "expected_utility": 13632
+    },
+    {
+        "input": [
+            "BUNTING , SPOTTY "
+        ],
+        "suggest": "PARTY BUNTING",
+        "expected_utility": 13594
+    },
+    {
+        "input": [
+            "PARTY BUNTING"
+        ],
+        "suggest": "BUNTING , SPOTTY ",
+        "expected_utility": 13594
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PACK OF 12 TRADITIONAL CRAYONS",
+        "expected_utility": 13587
+    },
+    {
+        "input": [
+            "PACK OF 12 TRADITIONAL CRAYONS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13587
+    },
+    {
+        "input": [
+            "VEGETABLE MAGNETIC  SHOPPING LIST"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13571
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "VEGETABLE MAGNETIC  SHOPPING LIST",
+        "expected_utility": 13571
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "WHITE MOROCCAN METAL LANTERN",
+        "expected_utility": 13492
+    },
+    {
+        "input": [
+            "WHITE MOROCCAN METAL LANTERN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13492
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "LUNCH BAG SUKI DESIGN ",
+        "expected_utility": 13487
+    },
+    {
+        "input": [
+            "LUNCH BAG SUKI DESIGN "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13487
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PLASTERS IN TIN SKULLS",
+        "expected_utility": 13486
+    },
+    {
+        "input": [
+            "PLASTERS IN TIN SKULLS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13486
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RECORD FRAME 7\" SINGLE SIZE ",
+        "expected_utility": 13438
+    },
+    {
+        "input": [
+            "RECORD FRAME 7\" SINGLE SIZE "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13438
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "GIN AND TONIC DIET METAL SIGN",
+        "expected_utility": 13407
+    },
+    {
+        "input": [
+            "GIN AND TONIC DIET METAL SIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13407
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "HANGING HEART ZINC T-LIGHT HOLDER",
+        "expected_utility": 13402
+    },
+    {
+        "input": [
+            "HANGING HEART ZINC T-LIGHT HOLDER"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13402
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SMALL HANGING IVORY/RED WOOD BIRD",
+        "expected_utility": 13375
+    },
+    {
+        "input": [
+            "SMALL HANGING IVORY/RED WOOD BIRD"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13375
+    },
+    {
+        "input": [
+            "SET OF 6 CAKE CHOPSTICKS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13369
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 6 CAKE CHOPSTICKS",
+        "expected_utility": 13369
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CHRISTMAS GINGHAM TREE",
+        "expected_utility": 13365
+    },
+    {
+        "input": [
+            "CHRISTMAS GINGHAM TREE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13365
+    },
+    {
+        "input": [
+            "KEY FOB , SHED"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13360
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "KEY FOB , SHED",
+        "expected_utility": 13360
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "EMERGENCY FIRST AID TIN ",
+        "expected_utility": 13348
+    },
+    {
+        "input": [
+            "EMERGENCY FIRST AID TIN "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13348
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "N0 SINGING METAL SIGN",
+        "expected_utility": 13333
+    },
+    {
+        "input": [
+            "N0 SINGING METAL SIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13333
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 6 RIBBONS VINTAGE CHRISTMAS",
+        "expected_utility": 13318
+    },
+    {
+        "input": [
+            "SET OF 6 RIBBONS VINTAGE CHRISTMAS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13318
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CHRISTMAS TREE HEART DECORATION",
+        "expected_utility": 13280
+    },
+    {
+        "input": [
+            "CHRISTMAS TREE HEART DECORATION"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13280
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "LUNCH BAG CARS BLUE",
+        "expected_utility": 13268
+    },
+    {
+        "input": [
+            "LUNCH BAG CARS BLUE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13268
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CARD PSYCHEDELIC APPLES",
+        "expected_utility": 13256
+    },
+    {
+        "input": [
+            "CARD PSYCHEDELIC APPLES"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13256
+    },
+    {
+        "input": [
+            "SET OF 60 PANTRY DESIGN CAKE CASES "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13253
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 60 PANTRY DESIGN CAKE CASES ",
+        "expected_utility": 13253
+    },
+    {
+        "input": [
+            "FOOD CONTAINER SET 3 LOVE HEART "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13251
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "FOOD CONTAINER SET 3 LOVE HEART ",
+        "expected_utility": 13251
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CERAMIC HEART FAIRY CAKE MONEY BANK",
+        "expected_utility": 13231
+    },
+    {
+        "input": [
+            "CERAMIC HEART FAIRY CAKE MONEY BANK"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13231
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "LUNCH BAG PINK POLKADOT",
+        "expected_utility": 13230
+    },
+    {
+        "input": [
+            "LUNCH BAG PINK POLKADOT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13230
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "DOORMAT FAIRY CAKE",
+        "expected_utility": 13215
+    },
+    {
+        "input": [
+            "DOORMAT FAIRY CAKE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13215
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CLOTHES PEGS RETROSPOT PACK 24 ",
+        "expected_utility": 13206
+    },
+    {
+        "input": [
+            "CLOTHES PEGS RETROSPOT PACK 24 "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13206
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 20 VINTAGE CHRISTMAS NAPKINS",
+        "expected_utility": 13179
+    },
+    {
+        "input": [
+            "SET OF 20 VINTAGE CHRISTMAS NAPKINS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13179
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "DOORMAT FANCY FONT HOME SWEET HOME",
+        "expected_utility": 13150
+    },
+    {
+        "input": [
+            "DOORMAT FANCY FONT HOME SWEET HOME"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13150
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "KINGS CHOICE BISCUIT TIN",
+        "expected_utility": 13142
+    },
+    {
+        "input": [
+            "KINGS CHOICE BISCUIT TIN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13142
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "URBAN BLACK RIBBONS ",
+        "expected_utility": 13113
+    },
+    {
+        "input": [
+            "URBAN BLACK RIBBONS "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13113
+    },
+    {
+        "input": [
+            "SPACEBOY BIRTHDAY CARD"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13104
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SPACEBOY BIRTHDAY CARD",
+        "expected_utility": 13104
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CHARLIE+LOLA RED HOT WATER BOTTLE ",
+        "expected_utility": 13042
+    },
+    {
+        "input": [
+            "CHARLIE+LOLA RED HOT WATER BOTTLE "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13042
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "DECORATIVE CATS BATHROOM BOTTLE",
+        "expected_utility": 13038
+    },
+    {
+        "input": [
+            "DECORATIVE CATS BATHROOM BOTTLE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13038
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "HAND WARMER BIRD DESIGN",
+        "expected_utility": 13018
+    },
+    {
+        "input": [
+            "HAND WARMER BIRD DESIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13018
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "BOHEMIAN COLLAGE STATIONERY SET",
+        "expected_utility": 13018
+    },
+    {
+        "input": [
+            "BOHEMIAN COLLAGE STATIONERY SET"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 13018
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "6 RIBBONS SHIMMERING PINKS ",
+        "expected_utility": 12995
+    },
+    {
+        "input": [
+            "6 RIBBONS SHIMMERING PINKS "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12995
+    },
+    {
+        "input": [
+            "RED RETROSPOT BOWL"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12969
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RED RETROSPOT BOWL",
+        "expected_utility": 12969
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "60 TEATIME FAIRY CAKE CASES",
+        "expected_utility": 12933
+    },
+    {
+        "input": [
+            "60 TEATIME FAIRY CAKE CASES"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12933
+    },
+    {
+        "input": [
+            "WOODEN STAR CHRISTMAS SCANDINAVIAN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12801
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "WOODEN STAR CHRISTMAS SCANDINAVIAN",
+        "expected_utility": 12801
+    },
+    {
+        "input": [
+            "BOX OF 6 CHRISTMAS CAKE DECORATIONS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12786
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "BOX OF 6 CHRISTMAS CAKE DECORATIONS",
+        "expected_utility": 12786
+    },
+    {
+        "input": [
+            "PIN CUSHION BABUSHKA PINK"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12768
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PIN CUSHION BABUSHKA PINK",
+        "expected_utility": 12768
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "BLACK RECORD COVER FRAME",
+        "expected_utility": 12758
+    },
+    {
+        "input": [
+            "BLACK RECORD COVER FRAME"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12758
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "DOORMAT HEARTS",
+        "expected_utility": 12739
+    },
+    {
+        "input": [
+            "DOORMAT HEARTS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12739
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "STRAWBERRY BATH SPONGE ",
+        "expected_utility": 12736
+    },
+    {
+        "input": [
+            "STRAWBERRY BATH SPONGE "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12736
+    },
+    {
+        "input": [
+            "CHARLOTTE BAG SUKI DESIGN"
+        ],
+        "suggest": "REGENCY CAKESTAND 3 TIER",
+        "expected_utility": 12689
+    },
+    {
+        "input": [
+            "REGENCY CAKESTAND 3 TIER"
+        ],
+        "suggest": "CHARLOTTE BAG SUKI DESIGN",
+        "expected_utility": 12689
+    },
+    {
+        "input": [
+            "PANTRY MAGNETIC  SHOPPING LIST"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12655
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PANTRY MAGNETIC  SHOPPING LIST",
+        "expected_utility": 12655
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO BAG CHARLIE AND LOLA TOYS",
+        "expected_utility": 12654
+    },
+    {
+        "input": [
+            "JUMBO BAG CHARLIE AND LOLA TOYS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12654
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "6 RIBBONS EMPIRE  ",
+        "expected_utility": 12590
+    },
+    {
+        "input": [
+            "6 RIBBONS EMPIRE  "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12590
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "NATURAL SLATE RECTANGLE CHALKBOARD",
+        "expected_utility": 12575
+    },
+    {
+        "input": [
+            "NATURAL SLATE RECTANGLE CHALKBOARD"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12575
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "TEA BAG PLATE RED RETROSPOT",
+        "expected_utility": 12556
+    },
+    {
+        "input": [
+            "TEA BAG PLATE RED RETROSPOT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12556
+    },
+    {
+        "input": [
+            "S/4 IVORY MINI ROSE CANDLE IN BOWL"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12550
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "S/4 IVORY MINI ROSE CANDLE IN BOWL",
+        "expected_utility": 12550
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "BLUE HARMONICA IN BOX ",
+        "expected_utility": 12550
+    },
+    {
+        "input": [
+            "BLUE HARMONICA IN BOX "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12550
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CHILLI LIGHTS",
+        "expected_utility": 12536
+    },
+    {
+        "input": [
+            "CHILLI LIGHTS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12536
+    },
+    {
+        "input": [
+            "RED RETROSPOT PICNIC BAG"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12523
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RED RETROSPOT PICNIC BAG",
+        "expected_utility": 12523
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "DOORMAT RED RETROSPOT",
+        "expected_utility": 12518
+    },
+    {
+        "input": [
+            "DOORMAT RED RETROSPOT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12518
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "MINI LADLE LOVE HEART RED ",
+        "expected_utility": 12516
+    },
+    {
+        "input": [
+            "MINI LADLE LOVE HEART RED "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12516
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "LUNCH BAG  BLACK SKULL.",
+        "expected_utility": 12482
+    },
+    {
+        "input": [
+            "LUNCH BAG  BLACK SKULL."
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12482
+    },
+    {
+        "input": [
+            "GREEN REGENCY TEACUP AND SAUCER"
+        ],
+        "suggest": "REGENCY CAKESTAND 3 TIER",
+        "expected_utility": 12480
+    },
+    {
+        "input": [
+            "REGENCY CAKESTAND 3 TIER"
+        ],
+        "suggest": "GREEN REGENCY TEACUP AND SAUCER",
+        "expected_utility": 12480
+    },
+    {
+        "input": [
+            "SET 12 KIDS COLOUR  CHALK STICKS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12416
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET 12 KIDS COLOUR  CHALK STICKS",
+        "expected_utility": 12416
+    },
+    {
+        "input": [
+            "HANGING HEART JAR T-LIGHT HOLDER"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12353
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "HANGING HEART JAR T-LIGHT HOLDER",
+        "expected_utility": 12353
+    },
+    {
+        "input": [
+            "DOORMAT WELCOME TO OUR HOME"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12339
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "DOORMAT WELCOME TO OUR HOME",
+        "expected_utility": 12339
+    },
+    {
+        "input": [
+            "SET/6 PURPLE BUTTERFLY T-LIGHTS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12324
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET/6 PURPLE BUTTERFLY T-LIGHTS",
+        "expected_utility": 12324
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SCANDINAVIAN REDS RIBBONS",
+        "expected_utility": 12322
+    },
+    {
+        "input": [
+            "SCANDINAVIAN REDS RIBBONS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12322
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SLEEPING CAT ERASERS",
+        "expected_utility": 12302
+    },
+    {
+        "input": [
+            "SLEEPING CAT ERASERS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12302
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "12 PENCIL SMALL TUBE WOODLAND",
+        "expected_utility": 12300
+    },
+    {
+        "input": [
+            "12 PENCIL SMALL TUBE WOODLAND"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12300
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CHRISTMAS TOILET ROLL",
+        "expected_utility": 12290
+    },
+    {
+        "input": [
+            "CHRISTMAS TOILET ROLL"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12290
+    },
+    {
+        "input": [
+            "ENGLISH ROSE NOTEBOOK A7 SIZE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12225
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "ENGLISH ROSE NOTEBOOK A7 SIZE",
+        "expected_utility": 12225
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "72 SWEETHEART FAIRY CAKE CASES",
+        "expected_utility": 12208
+    },
+    {
+        "input": [
+            "72 SWEETHEART FAIRY CAKE CASES"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12208
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SOLDIERS EGG CUP ",
+        "expected_utility": 12192
+    },
+    {
+        "input": [
+            "SOLDIERS EGG CUP "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12192
+    },
+    {
+        "input": [
+            "SET OF 60 I LOVE LONDON CAKE CASES "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12191
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 60 I LOVE LONDON CAKE CASES ",
+        "expected_utility": 12191
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CHRISTMAS HANGING STAR WITH BELL",
+        "expected_utility": 12183
+    },
+    {
+        "input": [
+            "CHRISTMAS HANGING STAR WITH BELL"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12183
+    },
+    {
+        "input": [
+            "WOOD STOCKING CHRISTMAS SCANDISPOT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12131
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "WOOD STOCKING CHRISTMAS SCANDISPOT",
+        "expected_utility": 12131
+    },
+    {
+        "input": [
+            "SCANDINAVIAN PAISLEY PICNIC BAG"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12125
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SCANDINAVIAN PAISLEY PICNIC BAG",
+        "expected_utility": 12125
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 6 T-LIGHTS TOADSTOOLS",
+        "expected_utility": 12124
+    },
+    {
+        "input": [
+            "SET OF 6 T-LIGHTS TOADSTOOLS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12124
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PACK 3 BOXES BIRD PANETTONE ",
+        "expected_utility": 12115
+    },
+    {
+        "input": [
+            "PACK 3 BOXES BIRD PANETTONE "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12115
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "HOT WATER BOTTLE I AM SO POORLY",
+        "expected_utility": 12110
+    },
+    {
+        "input": [
+            "HOT WATER BOTTLE I AM SO POORLY"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12110
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET/5 RED SPOTTY LID GLASS BOWLS",
+        "expected_utility": 12101
+    },
+    {
+        "input": [
+            "SET/5 RED SPOTTY LID GLASS BOWLS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12101
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CERAMIC STRAWBERRY CAKE MONEY BANK",
+        "expected_utility": 12084
+    },
+    {
+        "input": [
+            "CERAMIC STRAWBERRY CAKE MONEY BANK"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12084
+    },
+    {
+        "input": [
+            "LIPSTICK PEN FUSCHIA"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12067
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "LIPSTICK PEN FUSCHIA",
+        "expected_utility": 12067
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 6 STRAWBERRY CHOPSTICKS",
+        "expected_utility": 12041
+    },
+    {
+        "input": [
+            "SET OF 6 STRAWBERRY CHOPSTICKS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 12041
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "KITCHEN METAL SIGN",
+        "expected_utility": 11965
+    },
+    {
+        "input": [
+            "KITCHEN METAL SIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11965
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SINGLE HEART ZINC T-LIGHT HOLDER",
+        "expected_utility": 11893
+    },
+    {
+        "input": [
+            "SINGLE HEART ZINC T-LIGHT HOLDER"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11893
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO BAG STRAWBERRY",
+        "expected_utility": 11884
+    },
+    {
+        "input": [
+            "JUMBO BAG STRAWBERRY"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11884
+    },
+    {
+        "input": [
+            "JUMBO BAG VINTAGE DOILY "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11868
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO BAG VINTAGE DOILY ",
+        "expected_utility": 11868
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "HEART WOODEN CHRISTMAS DECORATION",
+        "expected_utility": 11866
+    },
+    {
+        "input": [
+            "HEART WOODEN CHRISTMAS DECORATION"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11866
+    },
+    {
+        "input": [
+            "GLASS BON BON JAR"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11865
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "GLASS BON BON JAR",
+        "expected_utility": 11865
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PINK CREAM FELT CRAFT TRINKET BOX ",
+        "expected_utility": 11823
+    },
+    {
+        "input": [
+            "PINK CREAM FELT CRAFT TRINKET BOX "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11823
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "DOORMAT UNION FLAG",
+        "expected_utility": 11811
+    },
+    {
+        "input": [
+            "DOORMAT UNION FLAG"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11811
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "STAR WOODEN CHRISTMAS DECORATION",
+        "expected_utility": 11810
+    },
+    {
+        "input": [
+            "STAR WOODEN CHRISTMAS DECORATION"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11810
+    },
+    {
+        "input": [
+            "REGENCY CAKESTAND 3 TIER"
+        ],
+        "suggest": "PACK OF 72 RETROSPOT CAKE CASES",
+        "expected_utility": 11787
+    },
+    {
+        "input": [
+            "PACK OF 72 RETROSPOT CAKE CASES"
+        ],
+        "suggest": "REGENCY CAKESTAND 3 TIER",
+        "expected_utility": 11787
+    },
+    {
+        "input": [
+            "REGENCY TEA PLATE PINK"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11784
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "REGENCY TEA PLATE PINK",
+        "expected_utility": 11784
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RETROSPOT CHILDRENS APRON",
+        "expected_utility": 11771
+    },
+    {
+        "input": [
+            "RETROSPOT CHILDRENS APRON"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11771
+    },
+    {
+        "input": [
+            "PINK VINTAGE PAISLEY PICNIC BAG"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11768
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PINK VINTAGE PAISLEY PICNIC BAG",
+        "expected_utility": 11768
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "6 RIBBONS ELEGANT CHRISTMAS ",
+        "expected_utility": 11760
+    },
+    {
+        "input": [
+            "6 RIBBONS ELEGANT CHRISTMAS "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11760
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 72 RETROSPOT PAPER  DOILIES",
+        "expected_utility": 11757
+    },
+    {
+        "input": [
+            "SET OF 72 RETROSPOT PAPER  DOILIES"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11757
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "WOODEN HEART CHRISTMAS SCANDINAVIAN",
+        "expected_utility": 11751
+    },
+    {
+        "input": [
+            "WOODEN HEART CHRISTMAS SCANDINAVIAN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11751
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SMALL RED BABUSHKA NOTEBOOK ",
+        "expected_utility": 11744
+    },
+    {
+        "input": [
+            "SMALL RED BABUSHKA NOTEBOOK "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11744
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "HOMEMADE JAM SCENTED CANDLES",
+        "expected_utility": 11685
+    },
+    {
+        "input": [
+            "HOMEMADE JAM SCENTED CANDLES"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11685
+    },
+    {
+        "input": [
+            "CHOCOLATE THIS WAY METAL SIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11658
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CHOCOLATE THIS WAY METAL SIGN",
+        "expected_utility": 11658
+    },
+    {
+        "input": [
+            "PARTY BUNTING"
+        ],
+        "suggest": "CHARLOTTE BAG SUKI DESIGN",
+        "expected_utility": 11638
+    },
+    {
+        "input": [
+            "CHARLOTTE BAG SUKI DESIGN"
+        ],
+        "suggest": "PARTY BUNTING",
+        "expected_utility": 11638
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PACK 3 BOXES CHRISTMAS PANETTONE",
+        "expected_utility": 11638
+    },
+    {
+        "input": [
+            "PACK 3 BOXES CHRISTMAS PANETTONE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11638
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "GENTLEMAN SHIRT REPAIR KIT ",
+        "expected_utility": 11602
+    },
+    {
+        "input": [
+            "GENTLEMAN SHIRT REPAIR KIT "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11602
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "ADVENT CALENDAR GINGHAM SACK",
+        "expected_utility": 11596
+    },
+    {
+        "input": [
+            "ADVENT CALENDAR GINGHAM SACK"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11596
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "GREEN CHRISTMAS TREE CARD HOLDER",
+        "expected_utility": 11592
+    },
+    {
+        "input": [
+            "GREEN CHRISTMAS TREE CARD HOLDER"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11592
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SWEETHEART 3 TIER CAKE STAND ",
+        "expected_utility": 11562
+    },
+    {
+        "input": [
+            "SWEETHEART 3 TIER CAKE STAND "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11562
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 3 NOTEBOOKS IN PARCEL",
+        "expected_utility": 11554
+    },
+    {
+        "input": [
+            "SET OF 3 NOTEBOOKS IN PARCEL"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11554
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PLASTERS IN TIN VINTAGE PAISLEY ",
+        "expected_utility": 11524
+    },
+    {
+        "input": [
+            "PLASTERS IN TIN VINTAGE PAISLEY "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11524
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CHRISTMAS GINGHAM STAR",
+        "expected_utility": 11472
+    },
+    {
+        "input": [
+            "CHRISTMAS GINGHAM STAR"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11472
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "WICKER STAR ",
+        "expected_utility": 11451
+    },
+    {
+        "input": [
+            "WICKER STAR "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11451
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PACK OF 12 WOODLAND TISSUES ",
+        "expected_utility": 11444
+    },
+    {
+        "input": [
+            "PACK OF 12 WOODLAND TISSUES "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11444
+    },
+    {
+        "input": [
+            "6 GIFT TAGS VINTAGE CHRISTMAS "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11416
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "6 GIFT TAGS VINTAGE CHRISTMAS ",
+        "expected_utility": 11416
+    },
+    {
+        "input": [
+            "VINTAGE CREAM CAT FOOD CONTAINER"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11407
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "VINTAGE CREAM CAT FOOD CONTAINER",
+        "expected_utility": 11407
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SMALL PURPLE BABUSHKA NOTEBOOK ",
+        "expected_utility": 11390
+    },
+    {
+        "input": [
+            "SMALL PURPLE BABUSHKA NOTEBOOK "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11390
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "GINGHAM HEART DECORATION",
+        "expected_utility": 11375
+    },
+    {
+        "input": [
+            "GINGHAM HEART DECORATION"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11375
+    },
+    {
+        "input": [
+            "SET OF 6 3D KIT CARDS FOR KIDS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11371
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 6 3D KIT CARDS FOR KIDS",
+        "expected_utility": 11371
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "GUMBALL COAT RACK",
+        "expected_utility": 11361
+    },
+    {
+        "input": [
+            "GUMBALL COAT RACK"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11361
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CARD DOLLY GIRL ",
+        "expected_utility": 11354
+    },
+    {
+        "input": [
+            "CARD DOLLY GIRL "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11354
+    },
+    {
+        "input": [
+            "TRAVEL CARD WALLET KEEP CALM"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11338
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "TRAVEL CARD WALLET KEEP CALM",
+        "expected_utility": 11338
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "HOME BUILDING BLOCK WORD",
+        "expected_utility": 11336
+    },
+    {
+        "input": [
+            "HOME BUILDING BLOCK WORD"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11336
+    },
+    {
+        "input": [
+            "VINTAGE CHRISTMAS STOCKING "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11335
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "VINTAGE CHRISTMAS STOCKING ",
+        "expected_utility": 11335
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SKULLS DESIGN FLANNEL",
+        "expected_utility": 11328
+    },
+    {
+        "input": [
+            "SKULLS DESIGN FLANNEL"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11328
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "IVORY KITCHEN SCALES",
+        "expected_utility": 11292
+    },
+    {
+        "input": [
+            "IVORY KITCHEN SCALES"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11292
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "COOK WITH WINE METAL SIGN ",
+        "expected_utility": 11272
+    },
+    {
+        "input": [
+            "COOK WITH WINE METAL SIGN "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11272
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CLEAR DRAWER KNOB ACRYLIC EDWARDIAN",
+        "expected_utility": 11270
+    },
+    {
+        "input": [
+            "CLEAR DRAWER KNOB ACRYLIC EDWARDIAN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11270
+    },
+    {
+        "input": [
+            "JUMBO BAG VINTAGE LEAF"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11227
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO BAG VINTAGE LEAF",
+        "expected_utility": 11227
+    },
+    {
+        "input": [
+            "ANTIQUE ALL GLASS CANDLESTICK"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11226
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "ANTIQUE ALL GLASS CANDLESTICK",
+        "expected_utility": 11226
+    },
+    {
+        "input": [
+            "TEA COSY BLUE STRIPE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11224
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "TEA COSY BLUE STRIPE",
+        "expected_utility": 11224
+    },
+    {
+        "input": [
+            "TREASURE TIN GYMKHANA DESIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11223
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "TREASURE TIN GYMKHANA DESIGN",
+        "expected_utility": 11223
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "HOT BATHS METAL SIGN",
+        "expected_utility": 11219
+    },
+    {
+        "input": [
+            "HOT BATHS METAL SIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11219
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SAVE THE PLANET MUG",
+        "expected_utility": 11219
+    },
+    {
+        "input": [
+            "SAVE THE PLANET MUG"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11219
+    },
+    {
+        "input": [
+            "SET OF TEA COFFEE SUGAR TINS PANTRY"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11202
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF TEA COFFEE SUGAR TINS PANTRY",
+        "expected_utility": 11202
+    },
+    {
+        "input": [
+            "TRAVEL CARD WALLET VINTAGE TICKET"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11201
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "TRAVEL CARD WALLET VINTAGE TICKET",
+        "expected_utility": 11201
+    },
+    {
+        "input": [
+            "JUMBO BAG VINTAGE CHRISTMAS "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11197
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO BAG VINTAGE CHRISTMAS ",
+        "expected_utility": 11197
+    },
+    {
+        "input": [
+            "TEA FOR ONE POLKADOT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11180
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "TEA FOR ONE POLKADOT",
+        "expected_utility": 11180
+    },
+    {
+        "input": [
+            "JUMBO BAG PEARS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11175
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JUMBO BAG PEARS",
+        "expected_utility": 11175
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "LADIES & GENTLEMEN METAL SIGN",
+        "expected_utility": 11163
+    },
+    {
+        "input": [
+            "LADIES & GENTLEMEN METAL SIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11163
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "ROUND SNACK BOXES SET OF 4 FRUITS ",
+        "expected_utility": 11162
+    },
+    {
+        "input": [
+            "ROUND SNACK BOXES SET OF 4 FRUITS "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11162
+    },
+    {
+        "input": [
+            "WOODLAND CHARLOTTE BAG"
+        ],
+        "suggest": "REGENCY CAKESTAND 3 TIER",
+        "expected_utility": 11162
+    },
+    {
+        "input": [
+            "REGENCY CAKESTAND 3 TIER"
+        ],
+        "suggest": "WOODLAND CHARLOTTE BAG",
+        "expected_utility": 11162
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "ZINC WILLIE WINKIE  CANDLE STICK",
+        "expected_utility": 11110
+    },
+    {
+        "input": [
+            "ZINC WILLIE WINKIE  CANDLE STICK"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11110
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET 7 BABUSHKA NESTING BOXES",
+        "expected_utility": 11092
+    },
+    {
+        "input": [
+            "SET 7 BABUSHKA NESTING BOXES"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11092
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "ALARM CLOCK BAKELIKE RED ",
+        "expected_utility": 11067
+    },
+    {
+        "input": [
+            "ALARM CLOCK BAKELIKE RED "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11067
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RIBBON REEL SNOWY VILLAGE",
+        "expected_utility": 11022
+    },
+    {
+        "input": [
+            "RIBBON REEL SNOWY VILLAGE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 11022
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RED RETROSPOT TAPE",
+        "expected_utility": 10996
+    },
+    {
+        "input": [
+            "RED RETROSPOT TAPE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10996
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "FRENCH WC SIGN BLUE METAL",
+        "expected_utility": 10970
+    },
+    {
+        "input": [
+            "FRENCH WC SIGN BLUE METAL"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10970
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RAINY LADIES BIRTHDAY CARD",
+        "expected_utility": 10913
+    },
+    {
+        "input": [
+            "RAINY LADIES BIRTHDAY CARD"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10913
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CARD MOTORBIKE SANTA",
+        "expected_utility": 10854
+    },
+    {
+        "input": [
+            "CARD MOTORBIKE SANTA"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10854
+    },
+    {
+        "input": [
+            "RED FLORAL FELTCRAFT SHOULDER BAG"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10825
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RED FLORAL FELTCRAFT SHOULDER BAG",
+        "expected_utility": 10825
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "WHITE SKULL HOT WATER BOTTLE ",
+        "expected_utility": 10789
+    },
+    {
+        "input": [
+            "WHITE SKULL HOT WATER BOTTLE "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10789
+    },
+    {
+        "input": [
+            "RED RETROSPOT CHARLOTTE BAG"
+        ],
+        "suggest": "REGENCY CAKESTAND 3 TIER",
+        "expected_utility": 10773
+    },
+    {
+        "input": [
+            "REGENCY CAKESTAND 3 TIER"
+        ],
+        "suggest": "RED RETROSPOT CHARLOTTE BAG",
+        "expected_utility": 10773
+    },
+    {
+        "input": [
+            "JUMBO BAG APPLES"
+        ],
+        "suggest": "JUMBO BAG RED RETROSPOT",
+        "expected_utility": 10753
+    },
+    {
+        "input": [
+            "JUMBO BAG RED RETROSPOT"
+        ],
+        "suggest": "JUMBO BAG APPLES",
+        "expected_utility": 10753
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "HEART DECORATION WITH PEARLS ",
+        "expected_utility": 10734
+    },
+    {
+        "input": [
+            "HEART DECORATION WITH PEARLS "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10734
+    },
+    {
+        "input": [
+            "JUMBO BAG RED RETROSPOT"
+        ],
+        "suggest": "JUMBO STORAGE BAG SUKI",
+        "expected_utility": 10724
+    },
+    {
+        "input": [
+            "JUMBO STORAGE BAG SUKI"
+        ],
+        "suggest": "JUMBO BAG RED RETROSPOT",
+        "expected_utility": 10724
+    },
+    {
+        "input": [
+            "6 GIFT TAGS 50'S CHRISTMAS "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10716
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "6 GIFT TAGS 50'S CHRISTMAS ",
+        "expected_utility": 10716
+    },
+    {
+        "input": [
+            "SET OF 12 MINI LOAF BAKING CASES"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10711
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET OF 12 MINI LOAF BAKING CASES",
+        "expected_utility": 10711
+    },
+    {
+        "input": [
+            "BEWARE OF THE CAT METAL SIGN "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10711
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "BEWARE OF THE CAT METAL SIGN ",
+        "expected_utility": 10711
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "TRADITIONAL CHRISTMAS RIBBONS",
+        "expected_utility": 10705
+    },
+    {
+        "input": [
+            "TRADITIONAL CHRISTMAS RIBBONS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10705
+    },
+    {
+        "input": [
+            "PINK CAT BOWL"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10694
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PINK CAT BOWL",
+        "expected_utility": 10694
+    },
+    {
+        "input": [
+            "HOT WATER BOTTLE TEA AND SYMPATHY"
+        ],
+        "suggest": "PAPER CHAIN KIT 50'S CHRISTMAS ",
+        "expected_utility": 10679
+    },
+    {
+        "input": [
+            "PAPER CHAIN KIT 50'S CHRISTMAS "
+        ],
+        "suggest": "HOT WATER BOTTLE TEA AND SYMPATHY",
+        "expected_utility": 10679
+    },
+    {
+        "input": [
+            "MULTICOLOUR SPRING FLOWER MUG"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10671
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "MULTICOLOUR SPRING FLOWER MUG",
+        "expected_utility": 10671
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "RED  HARMONICA IN BOX ",
+        "expected_utility": 10648
+    },
+    {
+        "input": [
+            "RED  HARMONICA IN BOX "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10648
+    },
+    {
+        "input": [
+            "POTTING SHED TEA MUG"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10646
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "POTTING SHED TEA MUG",
+        "expected_utility": 10646
+    },
+    {
+        "input": [
+            "DIAMANTE HEART SHAPED WALL MIRROR, "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10610
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "DIAMANTE HEART SHAPED WALL MIRROR, ",
+        "expected_utility": 10610
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CHRISTMAS PUDDING TRINKET POT ",
+        "expected_utility": 10609
+    },
+    {
+        "input": [
+            "CHRISTMAS PUDDING TRINKET POT "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10609
+    },
+    {
+        "input": [
+            "PINK BLUE FELT CRAFT TRINKET BOX"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10578
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PINK BLUE FELT CRAFT TRINKET BOX",
+        "expected_utility": 10578
+    },
+    {
+        "input": [
+            "GIRLS ALPHABET IRON ON PATCHES "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10569
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "GIRLS ALPHABET IRON ON PATCHES ",
+        "expected_utility": 10569
+    },
+    {
+        "input": [
+            "REGENCY SUGAR TONGS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10562
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "REGENCY SUGAR TONGS",
+        "expected_utility": 10562
+    },
+    {
+        "input": [
+            "STRAWBERRIES  DESIGN FLANNEL "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10552
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "STRAWBERRIES  DESIGN FLANNEL ",
+        "expected_utility": 10552
+    },
+    {
+        "input": [
+            "BISCUIT TIN VINTAGE CHRISTMAS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10495
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "BISCUIT TIN VINTAGE CHRISTMAS",
+        "expected_utility": 10495
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "TOILET METAL SIGN",
+        "expected_utility": 10467
+    },
+    {
+        "input": [
+            "TOILET METAL SIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10467
+    },
+    {
+        "input": [
+            "GREEN ROSE WASHBAG"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10466
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "GREEN ROSE WASHBAG",
+        "expected_utility": 10466
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "ROUND SNACK BOXES SET OF4 WOODLAND ",
+        "expected_utility": 10449
+    },
+    {
+        "input": [
+            "ROUND SNACK BOXES SET OF4 WOODLAND "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10449
+    },
+    {
+        "input": [
+            "RED HANGING HEART T-LIGHT HOLDER"
+        ],
+        "suggest": "CREAM HANGING HEART T-LIGHT HOLDER",
+        "expected_utility": 10431
+    },
+    {
+        "input": [
+            "CREAM HANGING HEART T-LIGHT HOLDER"
+        ],
+        "suggest": "RED HANGING HEART T-LIGHT HOLDER",
+        "expected_utility": 10431
+    },
+    {
+        "input": [
+            "3D VINTAGE CHRISTMAS STICKERS "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10416
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "3D VINTAGE CHRISTMAS STICKERS ",
+        "expected_utility": 10416
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "COLOUR GLASS T-LIGHT HOLDER HANGING",
+        "expected_utility": 10400
+    },
+    {
+        "input": [
+            "COLOUR GLASS T-LIGHT HOLDER HANGING"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10400
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CARD BILLBOARD FONT",
+        "expected_utility": 10398
+    },
+    {
+        "input": [
+            "CARD BILLBOARD FONT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10398
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "ROCKING HORSE RED CHRISTMAS ",
+        "expected_utility": 10390
+    },
+    {
+        "input": [
+            "ROCKING HORSE RED CHRISTMAS "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10390
+    },
+    {
+        "input": [
+            "SET3 BOOK BOX GREEN GINGHAM FLOWER "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10367
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "SET3 BOOK BOX GREEN GINGHAM FLOWER ",
+        "expected_utility": 10367
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "STAR DECORATION PAINTED ZINC ",
+        "expected_utility": 10343
+    },
+    {
+        "input": [
+            "STAR DECORATION PAINTED ZINC "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10343
+    },
+    {
+        "input": [
+            "PACK OF 20 SKULL PAPER NAPKINS"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10313
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PACK OF 20 SKULL PAPER NAPKINS",
+        "expected_utility": 10313
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "60 CAKE CASES DOLLY GIRL DESIGN",
+        "expected_utility": 10284
+    },
+    {
+        "input": [
+            "60 CAKE CASES DOLLY GIRL DESIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10284
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PACK OF 12 HEARTS DESIGN TISSUES ",
+        "expected_utility": 10277
+    },
+    {
+        "input": [
+            "PACK OF 12 HEARTS DESIGN TISSUES "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10277
+    },
+    {
+        "input": [
+            "PINK BUTTERFLY HANDBAG W BOBBLES"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10276
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PINK BUTTERFLY HANDBAG W BOBBLES",
+        "expected_utility": 10276
+    },
+    {
+        "input": [
+            "COLOURED GLASS STAR T-LIGHT HOLDER"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10248
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "COLOURED GLASS STAR T-LIGHT HOLDER",
+        "expected_utility": 10248
+    },
+    {
+        "input": [
+            "VINTAGE DOILY TRAVEL SEWING KIT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10233
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "VINTAGE DOILY TRAVEL SEWING KIT",
+        "expected_utility": 10233
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "3 PIECE SPACEBOY COOKIE CUTTER SET",
+        "expected_utility": 10223
+    },
+    {
+        "input": [
+            "3 PIECE SPACEBOY COOKIE CUTTER SET"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10223
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "CHARLIE LOLA BLUE HOT WATER BOTTLE ",
+        "expected_utility": 10223
+    },
+    {
+        "input": [
+            "CHARLIE LOLA BLUE HOT WATER BOTTLE "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10223
+    },
+    {
+        "input": [
+            "UNION JACK FLAG PASSPORT COVER "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10193
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "UNION JACK FLAG PASSPORT COVER ",
+        "expected_utility": 10193
+    },
+    {
+        "input": [
+            "FEATHER PEN,HOT PINK"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10185
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "FEATHER PEN,HOT PINK",
+        "expected_utility": 10185
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "FLUTED ANTIQUE CANDLE HOLDER",
+        "expected_utility": 10158
+    },
+    {
+        "input": [
+            "FLUTED ANTIQUE CANDLE HOLDER"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10158
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "PINK DOUGHNUT TRINKET POT ",
+        "expected_utility": 10154
+    },
+    {
+        "input": [
+            "PINK DOUGHNUT TRINKET POT "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10154
+    },
+    {
+        "input": [
+            "POCKET BAG BLUE PAISLEY RED SPOT"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10147
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "POCKET BAG BLUE PAISLEY RED SPOT",
+        "expected_utility": 10147
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "WOOD BLACK BOARD ANT WHITE FINISH",
+        "expected_utility": 10147
+    },
+    {
+        "input": [
+            "WOOD BLACK BOARD ANT WHITE FINISH"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10147
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "HAND OVER THE CHOCOLATE   SIGN ",
+        "expected_utility": 10144
+    },
+    {
+        "input": [
+            "HAND OVER THE CHOCOLATE   SIGN "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10144
+    },
+    {
+        "input": [
+            "TRAVEL CARD WALLET PANTRY"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10134
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "TRAVEL CARD WALLET PANTRY",
+        "expected_utility": 10134
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "T-LIGHT GLASS FLUTED ANTIQUE",
+        "expected_utility": 10126
+    },
+    {
+        "input": [
+            "T-LIGHT GLASS FLUTED ANTIQUE"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10126
+    },
+    {
+        "input": [
+            "VINTAGE LEAF MAGNETIC NOTEPAD"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10108
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "VINTAGE LEAF MAGNETIC NOTEPAD",
+        "expected_utility": 10108
+    },
+    {
+        "input": [
+            "ALARM CLOCK BAKELIKE GREEN"
+        ],
+        "suggest": "ALARM CLOCK BAKELIKE RED ",
+        "expected_utility": 10092
+    },
+    {
+        "input": [
+            "ALARM CLOCK BAKELIKE RED "
+        ],
+        "suggest": "ALARM CLOCK BAKELIKE GREEN",
+        "expected_utility": 10092
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "JAM JAR WITH BLUE LID",
+        "expected_utility": 10085
+    },
+    {
+        "input": [
+            "JAM JAR WITH BLUE LID"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10085
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "HANGING HEART MIRROR DECORATION ",
+        "expected_utility": 10080
+    },
+    {
+        "input": [
+            "HANGING HEART MIRROR DECORATION "
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10080
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "COFFEE MUG CAT + BIRD DESIGN",
+        "expected_utility": 10046
+    },
+    {
+        "input": [
+            "COFFEE MUG CAT + BIRD DESIGN"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10046
+    },
+    {
+        "input": [
+            "DOTCOM POSTAGE"
+        ],
+        "suggest": "LOCAL CAFE MUG",
+        "expected_utility": 10018
+    },
+    {
+        "input": [
+            "LOCAL CAFE MUG"
+        ],
+        "suggest": "DOTCOM POSTAGE",
+        "expected_utility": 10018
+    }
+]
